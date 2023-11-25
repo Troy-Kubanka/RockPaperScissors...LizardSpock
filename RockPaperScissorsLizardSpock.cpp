@@ -1,5 +1,6 @@
 /*
 Troy Kubanka
+11/6/2021
 
 This program allows user input to compete against the computer in Rock/Paper/Scissors
 The user can choose between standard Rock/Paper/Scissors or in Rock/Paper/Scissors/Lizard/Spock
